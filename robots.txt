@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://nad-project.github.io/sitemap.xml
